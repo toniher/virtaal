@@ -1,7 +1,7 @@
 {
  "format": 1,
- "generated": "2026-10-13T22:48:48Z",
- "commit": "d10c1551caf6e36e89ff82698fe766b3d2fc2756",
+ "generated": "2026-10-26T21:11:06Z",
+ "commit": "2f696e4d61ad8af745a982492b626da57af6d1fe",
  "tolerance": 3,
  "fifty_percent_until": "1.1",
  "libraries": true,
@@ -9,7 +9,7 @@
   "core": 105,
   "rest": 87,
   "level2": 243,
-  "level3": 147
+  "level3": 145
  },
  "languages": [
   {
@@ -31,7 +31,7 @@
    "rest_missing": 33,
    "needed": 69,
    "level2_missing": 133,
-   "level3_missing": 75,
+   "level3_missing": 73,
    "ships": null
   },
   {
@@ -42,27 +42,27 @@
    "rest_missing": 58,
    "needed": 126,
    "level2_missing": 135,
-   "level3_missing": 85,
+   "level3_missing": 83,
    "ships": null
   },
   {
    "code": "ar",
    "name": "Arabic",
    "endonym": "العربية",
-   "core_missing": 29,
-   "rest_missing": 6,
-   "needed": 32,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 42,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "ast",
    "name": "Asturian",
    "endonym": "asturianu",
    "core_missing": 35,
-   "rest_missing": 10,
-   "needed": 42,
+   "rest_missing": 11,
+   "needed": 43,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -86,7 +86,7 @@
    "rest_missing": 54,
    "needed": 88,
    "level2_missing": 138,
-   "level3_missing": 75,
+   "level3_missing": 73,
    "ships": null
   },
   {
@@ -97,7 +97,7 @@
    "rest_missing": 59,
    "needed": 100,
    "level2_missing": 138,
-   "level3_missing": 75,
+   "level3_missing": 73,
    "ships": null
   },
   {
@@ -105,8 +105,8 @@
    "name": "Catalan",
    "endonym": "català",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -116,8 +116,8 @@
    "name": "Catalan (Spain, Valencian)",
    "endonym": "català (Espanya, valencià)",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -130,19 +130,19 @@
    "rest_missing": 44,
    "needed": 80,
    "level2_missing": 133,
-   "level3_missing": 78,
+   "level3_missing": 76,
    "ships": null
   },
   {
    "code": "cs",
    "name": "Czech",
    "endonym": "čeština",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "da",
@@ -182,8 +182,8 @@
    "name": "Spanish",
    "endonym": "español",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 90,
    "level3_missing": 55,
    "ships": "50%"
@@ -192,12 +192,12 @@
    "code": "eu",
    "name": "Basque",
    "endonym": "euskara",
-   "core_missing": 23,
-   "rest_missing": 6,
-   "needed": 26,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "ff",
@@ -226,8 +226,8 @@
    "name": "Faroese",
    "endonym": "føroyskt",
    "core_missing": 36,
-   "rest_missing": 8,
-   "needed": 41,
+   "rest_missing": 9,
+   "needed": 42,
    "level2_missing": 123,
    "level3_missing": 56,
    "ships": "50%"
@@ -258,12 +258,12 @@
    "code": "he",
    "name": "Hebrew",
    "endonym": "עברית",
-   "core_missing": 23,
-   "rest_missing": 6,
-   "needed": 26,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "hu",
@@ -273,7 +273,7 @@
    "rest_missing": 64,
    "needed": 96,
    "level2_missing": 201,
-   "level3_missing": 137,
+   "level3_missing": 135,
    "ships": null
   },
   {
@@ -281,8 +281,8 @@
    "name": "Icelandic",
    "endonym": "íslenska",
    "core_missing": 28,
-   "rest_missing": 6,
-   "needed": 31,
+   "rest_missing": 7,
+   "needed": 32,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -292,8 +292,8 @@
    "name": "Italian",
    "endonym": "italiano",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -302,23 +302,23 @@
    "code": "ja",
    "name": "Japanese",
    "endonym": "日本語",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "ko",
    "name": "Korean",
    "endonym": "한국어",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 87,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "lg",
@@ -328,7 +328,7 @@
    "rest_missing": 43,
    "needed": 77,
    "level2_missing": 133,
-   "level3_missing": 75,
+   "level3_missing": 73,
    "ships": null
   },
   {
@@ -336,8 +336,8 @@
    "name": "Lithuanian",
    "endonym": "lietuvių",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -350,27 +350,27 @@
    "rest_missing": 66,
    "needed": 117,
    "level2_missing": 201,
-   "level3_missing": 124,
+   "level3_missing": 122,
    "ships": null
   },
   {
    "code": "nl",
    "name": "Dutch",
    "endonym": "Nederlands",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 123,
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
    "level3_missing": 55,
-   "ships": "50%"
+   "ships": "level 1"
   },
   {
    "code": "nso",
    "name": "Northern Sotho",
    "endonym": "Sesotho sa Leboa",
    "core_missing": 32,
-   "rest_missing": 6,
-   "needed": 35,
+   "rest_missing": 7,
+   "needed": 36,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -394,7 +394,7 @@
    "rest_missing": 56,
    "needed": 92,
    "level2_missing": 150,
-   "level3_missing": 90,
+   "level3_missing": 88,
    "ships": null
   },
   {
@@ -402,8 +402,8 @@
    "name": "Polish",
    "endonym": "polski",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -423,20 +423,20 @@
    "code": "pt_BR",
    "name": "Portuguese (Brazil)",
    "endonym": "português (Brasil)",
-   "core_missing": 12,
-   "rest_missing": 2,
-   "needed": 12,
-   "level2_missing": 29,
-   "level3_missing": 25,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "ru",
    "name": "Russian",
    "endonym": "русский",
    "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
+   "rest_missing": 7,
+   "needed": 26,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
@@ -449,7 +449,7 @@
    "rest_missing": 67,
    "needed": 146,
    "level2_missing": 140,
-   "level3_missing": 77,
+   "level3_missing": 75,
    "ships": null
   },
   {
@@ -493,19 +493,19 @@
    "rest_missing": 56,
    "needed": 107,
    "level2_missing": 139,
-   "level3_missing": 77,
+   "level3_missing": 75,
    "ships": null
   },
   {
    "code": "sv",
    "name": "Swedish",
    "endonym": "svenska",
-   "core_missing": 22,
-   "rest_missing": 10,
-   "needed": 29,
-   "level2_missing": 123,
-   "level3_missing": 58,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "sw",
@@ -515,7 +515,7 @@
    "rest_missing": 70,
    "needed": 139,
    "level2_missing": 149,
-   "level3_missing": 102,
+   "level3_missing": 100,
    "ships": null
   },
   {
@@ -523,8 +523,8 @@
    "name": "Telugu",
    "endonym": "తెలుగు",
    "core_missing": 35,
-   "rest_missing": 49,
-   "needed": 81,
+   "rest_missing": 50,
+   "needed": 82,
    "level2_missing": 182,
    "level3_missing": 100,
    "ships": null
@@ -537,30 +537,30 @@
    "rest_missing": 49,
    "needed": 82,
    "level2_missing": 137,
-   "level3_missing": 79,
+   "level3_missing": 77,
    "ships": null
   },
   {
    "code": "tr",
    "name": "Turkish",
    "endonym": "Türkçe",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 43,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "uk",
    "name": "Ukrainian",
    "endonym": "українська",
-   "core_missing": 22,
-   "rest_missing": 6,
-   "needed": 25,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "vi",
@@ -570,19 +570,19 @@
    "rest_missing": 51,
    "needed": 79,
    "level2_missing": 138,
-   "level3_missing": 75,
+   "level3_missing": 73,
    "ships": null
   },
   {
    "code": "zh_CN",
    "name": "Chinese (Simplified, China)",
    "endonym": "中文 (简体, 中国)",
-   "core_missing": 1,
-   "rest_missing": 1,
-   "needed": 1,
-   "level2_missing": 3,
-   "level3_missing": 10,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "zh_TW",
@@ -600,12 +600,12 @@
    "name": "Zulu",
    "endonym": "isiZulu",
    "core_missing": 32,
-   "rest_missing": 6,
-   "needed": 35,
+   "rest_missing": 7,
+   "needed": 36,
    "level2_missing": 123,
    "level3_missing": 55,
    "ships": "50%"
   }
  ],
- "packs": "https://github.com/translate/virtaal/actions/runs/38479910051"
+ "packs": "https://github.com/toniher/virtaal/actions/runs/40401762020"
 }
