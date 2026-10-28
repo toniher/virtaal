@@ -1,7 +1,7 @@
 {
  "format": 1,
- "generated": "2026-10-26T21:11:06Z",
- "commit": "2f696e4d61ad8af745a982492b626da57af6d1fe",
+ "generated": "2026-10-28T16:52:37Z",
+ "commit": "1ea78ad53d8d51f03fa470220bb3e2eae150c4c9",
  "tolerance": 3,
  "fifty_percent_until": "1.1",
  "libraries": true,
@@ -104,12 +104,12 @@
    "code": "ca",
    "name": "Catalan",
    "endonym": "català",
-   "core_missing": 22,
-   "rest_missing": 7,
-   "needed": 26,
-   "level2_missing": 123,
-   "level3_missing": 55,
-   "ships": "50%"
+   "core_missing": 0,
+   "rest_missing": 0,
+   "needed": 0,
+   "level2_missing": 0,
+   "level3_missing": 0,
+   "ships": "level 1"
   },
   {
    "code": "ca@valencia",
@@ -607,5 +607,5 @@
    "ships": "50%"
   }
  ],
- "packs": "https://github.com/toniher/virtaal/actions/runs/40401762020"
+ "packs": "https://github.com/toniher/virtaal/actions/runs/40729830327"
 }
